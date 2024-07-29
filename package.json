@@ -1,0 +1,18 @@
+{
+  "name": "yerindd",
+  "version": "1.0.0",
+  "description": "practica de conexion de base de datos con knex",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "knex": "^3.1.0",
+    "pg": "^8.12.0"
+  }
+}
